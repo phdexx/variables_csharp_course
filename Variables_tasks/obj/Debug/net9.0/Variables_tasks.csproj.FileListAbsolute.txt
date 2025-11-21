@@ -12,3 +12,4 @@ C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Var
 C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.pdb
 C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.genruntimeconfig.cache
 C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\ref\Variables_tasks.dll
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.sourcelink.json

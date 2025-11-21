@@ -7,14 +7,9 @@ internal class BootstrapTask1
     public double DamagePerSecond = 0;
     public string CharacterName = "Bob";
     public bool IsPlayerInMute = false;
-    internal string _debugText = "Working!";
+    internal string DebugText = "Working!";
     protected int Mana = 10;
     private bool _isAttacked = false;
     private char _charToDelete = '1';
     private double _damage = 15;
-    
-    public static void Run()
-    {
-        Console.WriteLine("Hello, World!");
-    }
 }
