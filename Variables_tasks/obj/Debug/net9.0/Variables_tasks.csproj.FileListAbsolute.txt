@@ -1,0 +1,14 @@
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\bin\Debug\net9.0\Variables_tasks.exe
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\bin\Debug\net9.0\Variables_tasks.deps.json
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\bin\Debug\net9.0\Variables_tasks.runtimeconfig.json
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\bin\Debug\net9.0\Variables_tasks.dll
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\bin\Debug\net9.0\Variables_tasks.pdb
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.AssemblyInfoInputs.cache
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.AssemblyInfo.cs
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.csproj.CoreCompileInputs.cache
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.dll
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\refint\Variables_tasks.dll
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.pdb
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\Variables_tasks.genruntimeconfig.cache
+C:\phdex_library\Desktop\Менторство_ДЗ\variables\Variables_tasks\Variables_tasks\obj\Debug\net9.0\ref\Variables_tasks.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Variables_tasks/1.0.0": {
+        "runtime": {
+          "Variables_tasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variables_tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
