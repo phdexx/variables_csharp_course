@@ -16,10 +16,10 @@ namespace Variables_tasks
             // BootstrapTask3 task3 = new BootstrapTask3();
             // task3.Run();
 
-            // BootstrapTask3_a.Run(); //Второй вариант решение третьей задачи
-            // BootstrapTask4.Run();
-            // BootstrapTask5.Run();
-            // BootstrapTask6.Run();
+            BootstrapTask3_a.Run(); //Второй вариант решение третьей задачи
+            BootstrapTask4.Run();
+            BootstrapTask5.Run();
+            BootstrapTask6.Run();
             BootstrapTask7.Run();
         }
     }
