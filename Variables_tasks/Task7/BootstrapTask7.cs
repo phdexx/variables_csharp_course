@@ -7,16 +7,13 @@ public class BootstrapTask7
         const int MINUTES_IN_QUEUE_PER_PERSON = 10;
         const int MINUTES_IN_ONE_HOUR = 60;
         
-        int peopleInQueue;
-        int totalHoursInQueue;
-        int totalMinutesInQueue;
-        
         Console.WriteLine("Сколько людей в очереди?");
-        peopleInQueue = Convert.ToInt32(Console.ReadLine());
-        totalMinutesInQueue = peopleInQueue * MINUTES_IN_QUEUE_PER_PERSON;
-        totalHoursInQueue = totalMinutesInQueue / MINUTES_IN_ONE_HOUR;
-        totalMinutesInQueue = totalMinutesInQueue % MINUTES_IN_ONE_HOUR;
+        int peopleInQueue = Convert.ToInt32(Console.ReadLine());
+        
+        int totalMinutesWaiting = peopleInQueue * MINUTES_IN_QUEUE_PER_PERSON;
+        int hoursWaiting = totalMinutesWaiting / MINUTES_IN_ONE_HOUR;
+        int minutesWaiting = totalMinutesWaiting % MINUTES_IN_ONE_HOUR;
 
-        Console.WriteLine($"Вы простоите в очереди {totalHoursInQueue} часа и {totalMinutesInQueue} минут");
+        Console.WriteLine($"Вы простоите в очереди {hoursWaiting} часа и {minutesWaiting} минут");
     }
 }

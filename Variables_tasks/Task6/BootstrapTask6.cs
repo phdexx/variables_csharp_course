@@ -10,10 +10,12 @@ public class BootstrapTask6
         
         Console.WriteLine("Введите колличество золота у игрока");
         playerGold = Convert.ToInt32(Console.ReadLine());
+        
         Console.WriteLine("Сколько кристалов вы хотите купить? Цена за 1 кристал: 5 золотых");
         playerCrystals = Convert.ToInt32(Console.ReadLine());
-        playerGold -= crystalPrice * playerCrystals;
-        Console.WriteLine($"Ваши кристалы : {playerCrystals}, остаток золота: {playerGold}");
         
+        playerGold -= crystalPrice * playerCrystals;
+        
+        Console.WriteLine($"Ваши кристалы : {playerCrystals}, остаток золота: {playerGold}");
     }
 }

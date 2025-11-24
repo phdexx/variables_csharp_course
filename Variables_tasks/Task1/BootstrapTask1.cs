@@ -2,7 +2,7 @@
 
 internal class BootstrapTask1
 {
-    const float PI = 3.14159f;
+    private const float PI = 3.14159f;
     public int Coins = 15;
     public double DamagePerSecond = 0;
     public string CharacterName = "Bob";

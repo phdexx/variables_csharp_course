@@ -6,9 +6,9 @@ public class BootstrapTask4
     {
         const int PICTURES_PER_ROW = 3;
         int totalPictures = 52;
-        int totalRows = totalPictures / PICTURES_PER_ROW;
-        int rowsOverflow = totalRows % PICTURES_PER_ROW;
-        Console.WriteLine($"Всего заполненных рядов: {totalRows}, превышение картинок: {rowsOverflow}");
+        int filledRows = totalPictures / PICTURES_PER_ROW;
+        int picturesOverflow = filledRows % PICTURES_PER_ROW;
         
+        Console.WriteLine($"Всего заполненных рядов: {filledRows}, превышение картинок: {picturesOverflow}");
     }
 }

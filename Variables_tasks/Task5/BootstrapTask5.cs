@@ -11,6 +11,7 @@ public class BootstrapTask5
         buffer = name;
         name = surname;
         surname = buffer;
+        
         Console.WriteLine($"Имя: {name}, Фамилия: {surname}");
     }
 }
