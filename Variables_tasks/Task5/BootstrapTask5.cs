@@ -6,12 +6,9 @@ public class BootstrapTask5
     {
         string name = "Боббович";
         string surname = "Боб";
-        string buffer = "";
-
-        buffer = name;
-        name = surname;
-        surname = buffer;
         
-        Console.WriteLine($"Имя: {name}, Фамилия: {surname}");
+        (name, surname) = (surname, name);
+        
+        Console.WriteLine($"{name}, {surname}");
     }
-}
+} 
